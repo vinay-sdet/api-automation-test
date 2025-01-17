@@ -7,7 +7,7 @@ import { expect } from "chai";
 const request=supertest('https://reqres.in');
 
 
-describe('first api test suite', () => {
+describe('first api test suite',  => {
 
     it('get request', (done) => {
         
