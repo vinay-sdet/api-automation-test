@@ -1,2 +1,2 @@
 Supertest, Chai and Mocha
-reqres.in API
+API used - reqres.in API
